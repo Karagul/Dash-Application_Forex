@@ -1,0 +1,11 @@
+dash
+dash_html_components
+dash_bootstrap_components
+dash_core_components
+plotly.express
+pandas
+numpy
+yfinance
+matplotlib
+seaborn
+dash_table
