@@ -4,6 +4,7 @@ There will be two graphs first graph will represent Currency strength and Second
 
 # Setup and run
 * Clone repository and open cmd prompt, set path for current working directory
+* install all the required library using "pip install -r requirements.txt"
 * Run "final.py"
 	* Initially it will generate all the required excel file for each particular instance
 	* It will generate historical 30 instance data and append new one in same file.
